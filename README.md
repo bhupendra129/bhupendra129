@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhupendra129
+- 👋 Hi, I’m Bhupendra Rathore
 - 👀 I’m interested in learning Data Science
 
 <!---
